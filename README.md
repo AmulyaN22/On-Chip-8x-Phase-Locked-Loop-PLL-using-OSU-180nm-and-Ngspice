@@ -41,11 +41,16 @@ i. Phase Frequency Detector
 
 ![pfdpost](https://user-images.githubusercontent.com/87768763/137962181-aafd0e24-04e6-4aeb-9de1-8fdcab2133c1.png)
 
+file:///home/amulya/Pictures/pfdfinal.png![image](https://user-images.githubusercontent.com/87768763/137964789-c7f09d83-aebf-4313-b4cf-7156acab8279.png)
+
 ii. Voltage Controlled Oscillator
 
 ![image](https://user-images.githubusercontent.com/87768763/137962264-d69039e6-013c-4513-a17e-e1e1a695c28b.png)
 
 ![vcofinal](https://user-images.githubusercontent.com/87768763/137962297-fa5cef00-7809-4147-a3a3-4e5cfba7b68b.png)
+
+file:///home/amulya/Pictures/vcopost.png![image](https://user-images.githubusercontent.com/87768763/137964878-9ad83942-1490-42b7-a866-57c3e264f3bb.png)
+
 
 iii. Frequency Divider by 8
 
@@ -53,19 +58,28 @@ iii. Frequency Divider by 8
 
 ![freqdivpost](https://user-images.githubusercontent.com/87768763/137962388-7b26bf0b-3acd-45f8-afdb-10c7ae410af2.png)
 
+file:///home/amulya/Pictures/freqdiv8final.png![image](https://user-images.githubusercontent.com/87768763/137965004-3ab43937-5f2d-4526-a87c-11da50b174b4.png)
+
+
 iv. MUX 2:1
 
 ![image](https://user-images.githubusercontent.com/87768763/137962422-845ac4cb-5c43-415e-ad5d-828a6d0956e4.png)
 
 ![mux21](https://user-images.githubusercontent.com/87768763/137962457-eeffa5f8-dffd-432b-82d0-fae996d1ad41.png)
 
+file:///home/amulya/Pictures/mux21post.png![image](https://user-images.githubusercontent.com/87768763/137965082-970faf06-8bd4-4a30-8093-996d871f4ffe.png)
+
+
 v. Phase Lock Loop (PLL)
 
 ![image](https://user-images.githubusercontent.com/87768763/137962519-f951e04e-237d-4f2c-8823-f9a1a4497187.png)
 
+file:///home/amulya/Pictures/pllv2.png![image](https://user-images.githubusercontent.com/87768763/137965125-3375962d-e5ca-493b-a1a2-eb5d4ad243ed.png)
+
 ![image](https://user-images.githubusercontent.com/87768763/137962566-b0767ce7-bc23-414e-bffe-8b54fc7e9169.png)
 
 ![image](https://user-images.githubusercontent.com/87768763/137962596-9bd7ed86-0c4d-460d-ae57-6bb20c3ef2da.png)
+
 
 C. Acknowledgments
 
